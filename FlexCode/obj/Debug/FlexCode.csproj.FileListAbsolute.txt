@@ -1,0 +1,8 @@
+C:\Users\wigam\source\repos\FlexCode\FlexCode\bin\Debug\FlexCode.dll
+C:\Users\wigam\source\repos\FlexCode\FlexCode\bin\Debug\FlexCode.pdb
+C:\Users\wigam\source\repos\FlexCode\FlexCode\bin\Debug\itextsharp.dll
+C:\Users\wigam\source\repos\FlexCode\FlexCode\bin\Debug\Mail.dll
+C:\Users\wigam\source\repos\FlexCode\FlexCode\obj\Debug\FlexCode.csproj.CoreCompileInputs.cache
+C:\Users\wigam\source\repos\FlexCode\FlexCode\obj\Debug\FlexCode.csproj.CopyComplete
+C:\Users\wigam\source\repos\FlexCode\FlexCode\obj\Debug\FlexCode.dll
+C:\Users\wigam\source\repos\FlexCode\FlexCode\obj\Debug\FlexCode.pdb
